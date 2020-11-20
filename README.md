@@ -1,2 +1,2 @@
 # image-scraper
-I have written this scraping srcript that promts user to enter wesite url to be scraped.
+I have written this scraping srcript that promts user to enter __wesite url__ to be scraped.
